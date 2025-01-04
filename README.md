@@ -13,3 +13,5 @@ This command gives execution permission to the script so that it can run.
 ./quicklabgsp342.sh
 
 This runs the script to set up your environment for the lab. It will provision resources and configure them as needed.
+
+Solution Video : https://youtu.be/BtNHtMrXLX8?si=A5CrqbQekDWnlJIo
